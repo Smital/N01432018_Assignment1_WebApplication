@@ -12,7 +12,7 @@ namespace N01432018_Assignment1.Controllers
     {
         /// <summary>
         /// Assignment Question 1
-        /// Returns 10 more than the integer input {id}........
+        /// Returns 10 more than the integer input {id}}}
         /// <param name="id"/></param>
         /// <returns></returns>
         /// GET api/AddTen/5 -> 10
